@@ -1,0 +1,725 @@
+[
+  {
+    "name": "Skins",
+    "data": [
+      {
+        "bundle": "PC - Default / Mobile - Captain",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/c/c3/Capt-main.png",
+        "name": "Captain",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default / Mobile - Astronaut",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/70/Astro-main.png",
+        "name": "Astronaut",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default / Mobile - Mechanic",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/8/8a/Mech_main.png/revision/latest?cb=20200918124206",
+        "name": "Mechanic",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default / Mobile - Military",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/0/01/Military_stand.png/revision/latest?cb=20200918125415",
+        "name": "Military",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default / Mobile - Police",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/8/88/Pol_Main.png/revision/latest?cb=20200918124158",
+        "name": "Police",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default / Mobile - Doctor",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/5/50/Sci_main.png/revision/latest?cb=20200918025821",
+        "name": "Doctor",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default / Mobile - Black Suit",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/6/69/SuitB-Main.png/revision/latest?cb=20200918124612",
+        "name": "Black Suit",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default / Mobile - White Suit",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/5/56/SuitW-main.png/revision/latest?cb=20200918125036",
+        "name": "White Suit",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default / Mobile - Wall Guard",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/8/89/Wall-main.png/revision/latest?cb=20200918125116",
+        "name": "Wall Guard Suit",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "MIRA HQ Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/0/00/Hazmat-idle.png/revision/latest?cb=20200918123141",
+        "name": "MIRA Hazmat",
+        "price": "$1.99"
+      },
+      {
+        "bundle": "MIRA HQ Bundle",
+        "img": "https://among-us.fandom.com/wiki/Special:FilePath/Security-guard-idle.png",
+        "name": "MIRA Security Guard",
+        "price": "$1.99"
+      },
+      {
+        "bundle": "MIRA HQ Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/23/Tarmac-idle.png/revision/latest?cb=20200918123201",
+        "name": "MIRA Landing",
+        "price": "$1.99"
+      },
+      {
+        "bundle": "Polus Map Bundle",
+        "img": "https://among-us.fandom.com/wiki/Special:FilePath/Miner-idle.png",
+        "name": "Miner Gear",
+        "price": "$1.99"
+      },
+      {
+        "bundle": "Polus Map Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/0/06/Winter-idle.png/revision/latest?cb=20200918123209",
+        "name": "Winter Gear",
+        "price": "$1.99"
+      },
+      {
+        "bundle": "Polus Map Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/21/Archae-idle.png/revision/latest?cb=20200918123100",
+        "name": "Archaelogist",
+        "price": "$1.99"
+      }
+    ]
+  },
+  {
+    "name": "Hats",
+    "data": [
+      {
+        "bundle": "PC - Default/ Mobile - Astronaut",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/e/ee/Hats0020.png/revision/latest?cb=20200915152547<",
+        "name": "Astronaut Helmet",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/a/ad/Hats0017.png/revision/latest?cb=20200915154210",
+        "name": "Backwards Cap",
+        "price": "Free"
+      },
+      {
+        "bundle": "PC - Default / Mobile - Brain Slug",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/3/32/Hats0019.png/revision/latest?cb=20200915152602",
+        "name": "Brain Slug",
+        "price": "$0.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile - Bush Hat",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/4/4d/Hats0004.png/revision/latest?cb=20200915152615",
+        "name": "Bush Hat",
+        "price": "$0.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile - Captain",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/29/Hats0021.png/revision/latest?cb=20200915152640",
+        "name": "Captain Hat",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile - Double Top Hat",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/23/Hats0003.png/revision/latest?cb=20200915152351",
+        "name": "Double Top Hat",
+        "price": "$0.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile - Flowerpot",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/4/49/Hats0014.png/revision/latest?cb=20200915152408",
+        "name": "Flowerpot Hat",
+        "price": "$0.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile - Goggles",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/c/c7/Hats0016.png/revision/latest?cb=20200915152706",
+        "name": "Goggles",
+        "price": "$0.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile - Mechanic",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/f/fc/Hats0011.png/revision/latest?cb=20200915152732",
+        "name": "Hard Hat",
+        "price": "$0.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile - Military",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/9/9b/Hats0007.png/revision/latest?cb=20200915152744",
+        "name": "Military Hat",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile - Paper Hat",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/4/49/Hats0013.png/revision/latest?cb=20200915152431",
+        "name": "Paper Hat",
+        "price": "$0.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile - Party Hat",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/7c/Hats0015.png/revision/latest?cb=20200915152320",
+        "name": "Party Hat",
+        "price": "$0.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile - Police",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/a/aa/Hats0006.png/revision/latest?cb=20200915152808",
+        "name": "Police Hat",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile - Doctor",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/7c/Hats0018.png/revision/latest?cb=20200915152951",
+        "name": "Top Hat",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile - Towel Wizard",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/e/ef/Hats0012.png/revision/latest?cb=20200915153020",
+        "name": "Towel Wizard",
+        "price": "$0.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile - Ushanka",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/c/cb/Hats0008.png/revision/latest?cb=20200915153032",
+        "name": "Ushanka",
+        "price": "$0.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile - Viking",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/5/5e/Hats0005.png/revision/latest?cb=20200915153045",
+        "name": "Viking",
+        "price": "$0.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile- Wall Guard",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/c/c2/Hats0009.png/revision/latest?cb=20200915153100",
+        "name": "Wall Guard Cap",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "Holiday '18 Hats Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/1/19/HatsHoliday20180001.png/revision/latest?cb=20200915153842",
+        "name": "Snowman",
+        "price": "$2.99 (Free on PC)"
+      },
+      {
+        "bundle": "Holiday '18 Hats Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/8/89/HatsHoliday20180007.png/revision/latest?cb=20200915153910",
+        "name": "Antlers",
+        "price": "$2.99 (Free on PC)"
+      },
+      {
+        "bundle": "Holiday '18 Hats Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/3/30/HatsHoliday20180009.png/revision/latest?cb=20200915153918",
+        "name": "Christmas Lights Hat",
+        "price": "$2.99 (Free on PC)"
+      },
+      {
+        "bundle": "Holiday '18 Hats Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/a/a7/HatsHoliday20180003.png/revision/latest?cb=20200915154011",
+        "name": "Santa Hat",
+        "price": "$2.99 (Free on PC)"
+      },
+      {
+        "bundle": "Holiday '18 Hats Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/d/dd/HatsHoliday20180005.png/revision/latest?cb=20200915153835",
+        "name": "Christmas Tree Hat",
+        "price": "$2.99 (Free on PC)"
+      },
+      {
+        "bundle": "Holiday '18 Hats Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/7c/HatsHoliday20180004.png/revision/latest?cb=20200915153901",
+        "name": "Present Hat",
+        "price": "$2.99 (Free on PC)"
+      },
+      {
+        "bundle": "Holiday '18 Hats Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/c/c5/HatsHoliday20180008.png/revision/latest?cb=20200915152221",
+        "name": "Candy Canes Hat",
+        "price": "$2.99 (Free on PC)"
+      },
+      {
+        "bundle": "Holiday '18 Hats Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/2f/HatsHoliday20180006.png/revision/latest?cb=20200915153928",
+        "name": "Elf Hat",
+        "price": "$2.99 (Free on PC)"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/9/99/HatsNewYear1819.png/revision/latest?cb=20200915151538",
+        "name": "2019 Yellow Party Hat",
+        "price": "Free"
+      },
+      {
+        "bundle": "PC - Default /Mobile - White Suit",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/3/3e/Hats0027.png/revision/latest?cb=20200915153109",
+        "name": "White Hat",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile -1M",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/9/98/Hats0034.png/revision/latest?cb=20200915153651",
+        "name": "Crown",
+        "price": "$2.99 USD (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile -1M",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/e/e9/Hats0010.png/revision/latest?cb=20200915153701",
+        "name": "Crown",
+        "price": "$2.99 USD (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile -1M",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/e/e9/Hats0010.png/revision/latest?cb=20200915153701",
+        "name": "Eyebrows",
+        "price": "$2.99 USD (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile -1M",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/6/6c/Hats0024.png/revision/latest?cb=20200915153708",
+        "name": "Angel Halo",
+        "price": "$2.99 USD (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile -1M",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/a/a2/Hats0031.png/revision/latest?cb=20200915153716",
+        "name": "Elf Cap",
+        "price": "$2.99 USD (Free on PC)"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/a/a6/Hats0032.png/revision/latest?cb=20200915154258",
+        "name": "Flat Cap",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/1/1a/Hats0029.png/revision/latest?cb=20200915151712",
+        "name": "Plunger",
+        "price": "Free"
+      },
+      {
+        "bundle": "PC - Default /Mobile -1M",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/d/db/Hats0033.png/revision/latest?cb=20200915153731",
+        "name": "Snorkel",
+        "price": "$2.99 USD (Free on PC)"
+      },
+      {
+        "bundle": "PC - Default /Mobile -1M",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/3/32/Hats0030.png/revision/latest?cb=20200915153740",
+        "name": "Stickmin Figure",
+        "price": "$2.99 USD (Free on PC)"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/2f/Hats0026.png/revision/latest?cb=20200918025004",
+        "name": "Straw Hat",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/6/66/Hats0022.png/revision/latest?cb=20200915154229",
+        "name": "Sheriff Hat",
+        "price": "Free"
+      },
+      {
+        "bundle": "PC - Default /Mobile -1M",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/72/Hats0025.png/revision/latest?cb=20200915153749",
+        "name": "Sheriff Hat",
+        "price": "$2.99 USD (Free on PC)"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/75/Hats0028.png/revision/latest?cb=20200918025029",
+        "name": "Toilet Paper Hat",
+        "price": "Free"
+      },
+      {
+        "bundle": "PC - Default /Mobile -1M",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/0/07/Hats0023.png/revision/latest?cb=20200915153759",
+        "name": "Toppat Clan Leader Hat",
+        "price": "$2.99 USD (Free on PC)"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/a/ab/Hats0035.png/revision/latest?cb=20200915153450",
+        "name": "Black Fedora",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/0/04/Hats0037.png/revision/latest?cb=20200918030427",
+        "name": "Ski Goggles",
+        "price": "Free"
+      },
+      {
+        "bundle": "MIRA Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/c/c6/MIRA_Landing_Headphones.png/revision/latest?cb=20200922144326",
+        "name": "MIRA Landing Headset",
+        "price": "$1.99 USD"
+      },
+      {
+        "bundle": "MIRA Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/e/e7/Hats0040.png/revision/latest?cb=20200915154141",
+        "name": "MIRA Hazmat Mask",
+        "price": "$1.99 USD"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/f/f9/Hats0041.png/revision/latest?cb=20200915153413",
+        "name": "Medical Mask",
+        "price": "Free"
+      },
+      {
+        "bundle": "MIRA Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/4/44/Hats0038.png/revision/latest?cb=20200915154130",
+        "name": "MIRA Security Cap",
+        "price": "$1.99 USD"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/3/3e/Hats0036.png/revision/latest?cb=20200915154241",
+        "name": "Safari Hat",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/b/b5/Hats0050.png/revision/latest?cb=20200915153355",
+        "name": "Banana Hat",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/1/17/Hats0044.png/revision/latest?cb=20200915153405",
+        "name": "Beanie",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/5/52/Hats0049.png/revision/latest?cb=20200915153429",
+        "name": "Bear Ears",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/70/Hats0048.png/revision/latest?cb=20200918025102",
+        "name": "Cheese Hat",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/72/Hats0045.png/revision/latest?cb=20200915154318",
+        "name": "Cherry Hat",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/a/af/Hats0052.png/revision/latest?cb=20200915153513",
+        "name": "Egg Hat",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/6/69/Hats0046.png/revision/latest?cb=20200915153442",
+        "name": "Green Fedora",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/d/d6/Hats0051.png/revision/latest?cb=20200915153521",
+        "name": "Flamingo Hat",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/d/df/Hats0047.png/revision/latest?cb=20200915153531",
+        "name": "Flower Hat",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/f/f5/Hats0043.png/revision/latest?cb=20200915153546",
+        "name": "Knight Helmet",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/5/5a/Hats0042.png/revision/latest?cb=20200915153604",
+        "name": "Plant Hat",
+        "price": "Free"
+      },
+      {
+        "bundle": "Halloween",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/9/97/Hats0060.png/revision/latest?cb=20200915152038",
+        "name": "Cat Head Hat",
+        "price": "Free (unlocked at Halloween)"
+      },
+      {
+        "bundle": "Halloween",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/6/61/Hats0059.png/revision/latest?cb=20200915152023",
+        "name": "Bat Wings",
+        "price": "Free (unlocked at Halloween)"
+      },
+      {
+        "bundle": "Halloween",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/5/53/Hats0054.png/revision/latest?cb=20200915151819",
+        "name": "Devil Horns",
+        "price": "Free (unlocked at Halloween)"
+      },
+      {
+        "bundle": "Halloween",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/b/b3/Hats0055.png/revision/latest?cb=20200915151948",
+        "name": "Mohawk",
+        "price": "Free (unlocked at Halloween)"
+      },
+      {
+        "bundle": "Halloween",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/f/f9/Hats0058.png/revision/latest?cb=20200915151856",
+        "name": "Pumpkin Hat",
+        "price": "Free (unlocked at Halloween)"
+      },
+      {
+        "bundle": "Halloween",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/0/0b/Hats0053.png/revision/latest?cb=20200915151904",
+        "name": "Spooky Paper Bag Hat",
+        "price": "Free (unlocked at Halloween)"
+      },
+      {
+        "bundle": "Halloween",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/4/48/Hats0057.png/revision/latest?cb=20200915151918",
+        "name": "Witch Hat",
+        "price": "Free (unlocked at Halloween)"
+      },
+      {
+        "bundle": "Halloween",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/b/b5/Hats0056.png/revision/latest?cb=20200915151938",
+        "name": "Wolf Ears",
+        "price": "Free (unlocked at Halloween)"
+      },
+      {
+        "bundle": "Halloween",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/78/Hats0062.png/revision/latest?cb=20200915151840",
+        "name": "Pirate Hat",
+        "price": "Free (unlocked at Halloween)"
+      },
+      {
+        "bundle": "Halloween",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/b/bb/Plague_Doctor_Mask.png/revision/latest?cb=20200922144233",
+        "name": "Plague Doctor Mask",
+        "price": "Free (unlocked at Halloween)"
+      },
+      {
+        "bundle": "Halloween",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/c/c0/Hats0069.png/revision/latest?cb=20200915152012",
+        "name": "Knife Hat",
+        "price": "Free (unlocked at Halloween)"
+      },
+      {
+        "bundle": "Halloween",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/3/30/Hats0064.png/revision/latest?cb=20200915151831",
+        "name": "Hockey Mask",
+        "price": "Free (unlocked at Halloween)"
+      },
+      {
+        "bundle": "Polus Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/8/86/Hats0070.png/revision/latest?cb=20200918025128",
+        "name": "Miner Gear Hat",
+        "price": "$1.99 USD"
+      },
+      {
+        "bundle": "Polus Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/26/Hats0071.png/revision/latest?cb=20200918025147",
+        "name": "Winter Gear Hat",
+        "price": "$1.99 USD"
+      },
+      {
+        "bundle": "Polus Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/8/8a/Hats0072.png/revision/latest?cb=20200918025158",
+        "name": "Archaeologist Hat",
+        "price": "$1.99 USD"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/25/Hats0082.png/revision/latest?cb=20200918025350",
+        "name": "Antenna",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/a/ad/Balloon.gif/revision/latest?cb=20201013074858",
+        "name": "Balloon",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/75/Hats0077.png/revision/latest?cb=20200918025252",
+        "name": "Bird Nest",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/8/85/Hats0079.png/revision/latest?cb=20200918025310",
+        "name": "Black Bandanna",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/0/09/Hats0078.png/revision/latest?cb=20200918025301",
+        "name": "Caution Sign Hat",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/b/be/Hats0084.png/revision/latest?cb=20200918025408",
+        "name": "Chef Hat",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/23/Hats0083.png/revision/latest?cb=20200918025359",
+        "name": "CCC Cap",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/b/b3/Hats0080.png/revision/latest?cb=20200918025318",
+        "name": "Do-rag",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/1/10/Hats0087.png/revision/latest?cb=20200918025436",
+        "name": "Dum Sticky Note",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/1/13/Hats0085.png/revision/latest?cb=20200918025419",
+        "name": "Fez",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/74/Hats0089.png/revision/latest?cb=20200918025458",
+        "name": "General Hat",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/d/dd/Hats0086.png/revision/latest?cb=20200918025428",
+        "name": "Pompadour",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/2/2b/Hats0075.png/revision/latest?cb=20200918025234",
+        "name": "Hunter Hat",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/6/65/Hats0088.png/revision/latest?cb=20200918025450",
+        "name": "Military Helmet",
+        "price": "Free"
+      },
+      {
+        "bundle": "PC - Default /Mobile - Mini Crewmate",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/5/57/Hatanim1.gif/revision/latest?cb=20200927144117",
+        "name": "Mini Crewmate",
+        "price": "$2.99 USD (Free on PC)"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/3/30/Hats0090.png/revision/latest?cb=20200918025507",
+        "name": "Ninja Mask",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/1/19/Hats0081.png/revision/latest?cb=20200918025341",
+        "name": "Ram Horns",
+        "price": "Free"
+      },
+      {
+        "bundle": "Default",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/76/Hats0073.png/revision/latest?cb=20200918025208",
+        "name": "Snow Crewmate",
+        "price": "Free"
+      }
+    ]
+  },
+  {
+    "name": "Pets",
+    "data": [
+      {
+        "bundle": "Bedcrab Pet Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/c/ce/CADA4BC5-5CFB-4178-917B-DAE381ABE09C.png/revision/latest?cb=20201003183601",
+        "name": "Squig",
+        "price": "$2.99 and $1.99 on PC"
+      },
+      {
+        "bundle": "Bedcrab Pet Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/1/18/Bedcrab.png/revision/latest?cb=20201003183630",
+        "name": "Bedcrab",
+        "price": "$1.99 (Free on PC)"
+      },
+      {
+        "bundle": "Brainslug Pet Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/d/dc/07EF2657-8084-41D2-B2DD-401A441A87FB.png/revision/latest?cb=20201003183652",
+        "name": "Brainslug",
+        "price": "$2.99 and $1.99 on PC"
+      },
+      {
+        "bundle": "Brainslug Pet Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/77/UFO.png/revision/latest?cb=20201003183645",
+        "name": "UFO",
+        "price": "$2.99 and $1.99 on PC"
+      },
+      {
+        "bundle": "Hamster Pet Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/3/35/Dog.png/revision/latest?cb=20201003183723",
+        "name": "Dog",
+        "price": "$2.99 and $1.99 on PC"
+      },
+      {
+        "bundle": "Hamster Pet Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/1/1e/Hamster.png/revision/latest?cb=20201003183731",
+        "name": "Hamster",
+        "price": "$2.99 and $1.99 on PC"
+      },
+      {
+        "bundle": "Mini Crewmate Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/7/79/Crewpet-idle.gif/revision/latest?cb=20201013075624",
+        "name": "Mini Crewmate",
+        "price": "$2.99 and $1.99 on PC"
+      },
+      {
+        "bundle": "Mini Crewmate Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/1/15/MiniRobot.png/revision/latest?cb=20201003183744",
+        "name": "Robot",
+        "price": "$2.99 and $1.99 on PC"
+      },
+      {
+        "bundle": "Stickmin Pet Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/6/69/7BE0433D-38F6-4B7E-8FD0-EA2AA5FAF25A.png/revision/latest?cb=20201003183812",
+        "name": "Henry",
+        "price": "$2.99 and $1.99 on PC"
+      },
+      {
+        "bundle": "Stickmin Pet Bundle",
+        "img": "https://static.wikia.nocookie.net/among-us-wiki/images/e/ef/Ellie.png/revision/latest?cb=20201003183801",
+        "name": "Ellie",
+        "price": "$2.99 and $1.99 on PC"
+      }
+    ]
+  }
+]
